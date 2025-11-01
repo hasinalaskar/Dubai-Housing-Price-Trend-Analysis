@@ -64,7 +64,6 @@ This Power BI dashboard provides an in-depth view of Dubai’s housing market.
 By combining data modeling, DAX calculations, and interactive visuals, it demonstrates how real estate insights can be effectively communicated through analytics and visualization.
 
 ---
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/09f94b0dc44e4dd28ef4560d2640e8f6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## 💻 How to View
 1. Download the `.pbix` file from this repository.  
